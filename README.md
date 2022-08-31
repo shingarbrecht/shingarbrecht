@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2200&pause=300&color=1F1FA0&vCenter=true&width=800&height=60&lines=Hi+i'm+a+full+stack+developer.;Hi+i'm+Shin.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2200&pause=300&color=1F1FA0&vCenter=true&width=800&height=60&lines=Hi+I'm+a+full+stack+developer.;Hi+I'm+Shin.)](https://git.io/typing-svg)
 
 <span >
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
