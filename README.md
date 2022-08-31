@@ -1,5 +1,6 @@
 ![image](https://github.com/xin-001/xin-001/blob/main/Word%20Art%20(2).jpeg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2200&pause=300&color=1F1FA0&vCenter=true&width=800&height=60&lines=Hi+I'm+a+full+stack+developer.;My+name+is+Shin.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2200&pause=300&color=1F1FA0&vCenter=true&width=1000&height=60&lines=⸜(๑’ᵕ’๑)⸝+Hi+I'm+a+full+stack+developer.;(੭ˊ꒳ˋ)੭✧+My+name+is+Shin.)](https://git.io/typing-svg)
 
 <span >
 	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
