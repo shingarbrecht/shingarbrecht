@@ -27,4 +27,3 @@ Before studying software engineering, I earned my MBA in Business Design 💼 at
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=xin-001&theme=minimal" />
 </div>
-
