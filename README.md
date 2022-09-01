@@ -15,12 +15,11 @@ I have acquired my knowledge and skills from attending a full-time bootcamp 🥾
 Before studying software engineering, I earned my MBA in Business Design 💼 at Josai International University in Tokyo, Japan, and had a successful career in sales, becoming the lead salesperson at my company. I am excited to bring my passion for technology and teamwork as a full-time software engineer. 😊✨
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xin-001" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=xin-001&theme=tokyonight_duo&hide_border=true" />
 </div>
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=xin-001&theme=minimal" />
 </div>
-
 
 
 
