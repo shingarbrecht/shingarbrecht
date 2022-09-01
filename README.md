@@ -21,4 +21,3 @@ Before studying software engineering, I earned my MBA in Business Design 💼 at
     <img src="https://activity-graph.herokuapp.com/graph?username=xin-001&theme=minimal" />
 </div>
 
-![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=xin-001&theme=github-light)
