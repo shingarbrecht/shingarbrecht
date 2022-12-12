@@ -25,3 +25,6 @@ Before working in software engineering, I earned my MBA in Business Design 💼 
     <img  src="https://github-readme-streak-stats.herokuapp.com?user=xin-001&theme=tokyonight_duo&hide_border=true" />
 </div>
 
+<div align="center">
+    <img  src="https://github.com/xin-001/xin-001/blob/main/NameLogo.png" />
+</div>
