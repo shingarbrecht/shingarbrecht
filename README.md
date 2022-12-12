@@ -26,5 +26,5 @@ Before working in software engineering, I earned my MBA in Business Design 💼 
 </div>
 
 <div align="center">
-    <img  src="https://github.com/xin-001/xin-001/blob/main/NameLogo.png" />
+    <img  src="https://github.com/xin-001/xin-001/blob/main/NameLogo.png" width="150px" />
 </div>
