@@ -27,7 +27,7 @@ Before working in software engineering, I earned my MBA in Business Design 💼 
 <br>
 <br>
 <div align="center">
-    <a href="https://www.linkedin.com/in/shin-ma-garbrecht-mba-5a43611a2/">
+    <a href="https://www.linkedin.com/in/shin-garbrecht-mba/">
         <img  src="https://github.com/xin-001/xin-001/blob/main/NameLogo.png" width="150px" />
     </a>
 </div>
